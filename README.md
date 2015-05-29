@@ -6,5 +6,7 @@ Resources and links for the Forth programming language
 
 ## Tutorials
 
++ [Programming Forth](http://www.wulfden.org/downloads/Forth_Resources/SP_ProgrammingForth.pdf)
+
 ## Resources
 
