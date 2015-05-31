@@ -20,3 +20,10 @@ Resources and links for the Forth programming language
 
 ## Resources
 
+# Similar languages
+
+Forth inspired some similar languages which you may also find interesting
+
+# Factor
+
+[Factor: an extensible interactive language](https://www.youtube.com/watch?v=f_0QlhYlS8g)
