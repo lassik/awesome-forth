@@ -8,7 +8,7 @@ Resources and links for the Forth programming language
 
 ## Videos
 
-+ [A Little Bit of Forth (great introduction)](https://www.youtube.com/watch?v=Q6FflPMHZP4)
++ [A Little Bit of Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4) A great introduction
 
 ## Tutorials
 
