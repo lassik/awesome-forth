@@ -8,7 +8,9 @@ Resources and links for the Forth programming language
 
 ## Books
 
-+ [Thinking Forth](http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf)
++ [Thinking Forth](http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf) Free PDF
++ [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) Free PDF
++ [Beginners Guide](http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm)
 
 ## Videos
 
