@@ -4,7 +4,7 @@ Resources and links for the Forth programming language
 
 ## Getting started
 
-I recommend trying GForth if you're on OSX. It seemed to be the easiest version to install and can be installed with Homebrew.
+I recommend trying GForth which is a cross platform forth compiler. It seemed to be the easiest version to install on OSX and can be installed with Homebrew.
 
 ```
 brew install gforth
