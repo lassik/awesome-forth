@@ -2,6 +2,8 @@
 
 Resources and links for the Forth programming language
 
+> Forth is an imperative stack-based computer programming language and programming environment.
+
 ## Getting started
 
 I recommend trying GForth which is a cross platform forth compiler. It seemed to be the easiest version to install on OSX and can be installed with Homebrew.
