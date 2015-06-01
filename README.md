@@ -47,4 +47,4 @@ A more modern and functional version of Factor.
 
 # Misc
 
-+ [OForth](http://www.oforth.com)
++ [OForth](http://www.oforth.com) Oforth is an imperative, dynamic, non-typed, stack-based language
