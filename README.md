@@ -8,6 +8,8 @@ I recommend trying GForth which is a cross platform forth compiler. It seemed to
 
 ```
 brew install gforth
+
+# Once installed, type gforth to start an interactive session
 ```
 
 + [GForth](http://www.gnu.org/software/gforth/) Gforth uses GCC to compile a fast direct or indirect threaded Forth
