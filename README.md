@@ -35,6 +35,12 @@ brew install gforth
 
 Forth inspired some similar languages which you may also find interesting
 
+# Joy
+
++ [Joy Homepage](http://www.latrobe.edu.au/humanities/research/research-projects/past-projects/joy-programming-language)
+
 # Factor
+
+A more modern and functional version of Factor.
 
 [Factor: an extensible interactive language](https://www.youtube.com/watch?v=f_0QlhYlS8g)
