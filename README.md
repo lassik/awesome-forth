@@ -26,6 +26,7 @@ brew install gforth
 ## Videos
 
 + [A Little Bit of Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4) A great introduction
++ [Over the Shoulder 1 - Text Preprocessing in Forth](https://www.youtube.com/watch?v=mvrE2ZGe-rs) A great example of how elegant and simple forth can be in the hands of an experienced forth programmer (Samuel A. Falvo II)
 
 ## Code
 
