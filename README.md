@@ -60,6 +60,7 @@ brew install gforth
 
 ## Forth companies
 
++ [Forth, Inc.](https://www.forth.com/)
 + [GreenArrays](http://www.greenarraychips.com/)
 + [Taygeta Scientific](https://www.taygeta.com/)
 
