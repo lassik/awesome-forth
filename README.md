@@ -40,20 +40,10 @@ brew install gforth
 
 * [Worms? (Atari 1983, with source code)](https://github.com/savetz/worms)
 
-## Similar languages
+## Other concatenative languages
 
-Forth inspired some similar languages which you may also find interesting
+[**Concatenative language wiki**](https://concatenative.org/)
 
-### Joy
-
-+ [Joy Homepage](http://www.latrobe.edu.au/humanities/research/research-projects/past-projects/joy-programming-language)
-
-### Factor
-
-A more modern and functional version of Factor.
-
-[Factor: an extensible interactive language](https://www.youtube.com/watch?v=f_0QlhYlS8g)
-
-## Misc
-
-+ [OForth](http://www.oforth.com) Oforth is an imperative, dynamic, non-typed, stack-based language
++ [Joy](http://www.latrobe.edu.au/humanities/research/research-projects/past-projects/joy-programming-language) -- purely-functional language
++ [Factor](https://www.youtube.com/watch?v=f_0QlhYlS8g) -- garbage-collected functional language
++ [OForth](http://www.oforth.com) -- garbage-collected object-oriented language
