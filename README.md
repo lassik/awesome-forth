@@ -32,6 +32,10 @@ brew install gforth
 
 + [Jones Forth](https://github.com/AlexandreAbreu/jonesforth/blob/master/jonesforth.S)
 
+## Applications
+
+* [Galileo spacecraft magnetometer patch (1993)](https://github.com/rongarret/gll-mag-patch)
+
 ## Games
 
 * [Worms? (Atari 1983, with source code)](https://github.com/savetz/worms)
