@@ -32,6 +32,10 @@ brew install gforth
 
 + [Jones Forth](https://github.com/AlexandreAbreu/jonesforth/blob/master/jonesforth.S)
 
+## Games
+
+* [Worms? (Atari 1983, with source code)](https://github.com/savetz/worms)
+
 ## Similar languages
 
 Forth inspired some similar languages which you may also find interesting
