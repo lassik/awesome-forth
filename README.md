@@ -32,20 +32,20 @@ brew install gforth
 
 + [Jones Forth](https://github.com/AlexandreAbreu/jonesforth/blob/master/jonesforth.S)
 
-# Similar languages
+## Similar languages
 
 Forth inspired some similar languages which you may also find interesting
 
-# Joy
+### Joy
 
 + [Joy Homepage](http://www.latrobe.edu.au/humanities/research/research-projects/past-projects/joy-programming-language)
 
-# Factor
+### Factor
 
 A more modern and functional version of Factor.
 
 [Factor: an extensible interactive language](https://www.youtube.com/watch?v=f_0QlhYlS8g)
 
-# Misc
+## Misc
 
 + [OForth](http://www.oforth.com) Oforth is an imperative, dynamic, non-typed, stack-based language
