@@ -14,8 +14,6 @@ brew install gforth
 # Once installed, type gforth to start an interactive session
 ```
 
-+ [GForth](http://www.gnu.org/software/gforth/) Gforth uses GCC to compile a fast direct or indirect threaded Forth
-
 ## Books
 
 + [Thinking Forth](http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf) Free PDF
@@ -28,9 +26,24 @@ brew install gforth
 + [A Little Bit of Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4) A great introduction
 + [Over the Shoulder 1 - Text Preprocessing in Forth](https://www.youtube.com/watch?v=mvrE2ZGe-rs) A great example of how elegant and simple forth can be in the hands of an experienced forth programmer (Samuel A. Falvo II)
 
-## Code
+## ANS Forth standard
 
-+ [Jones Forth](https://github.com/AlexandreAbreu/jonesforth/blob/master/jonesforth.S)
++ [Web version (table of contents)](https://www.taygeta.com/forth/dpans.html)
++ [Web version (index of words)](https://www.taygeta.com/forth/dpansf.htm)
+
+## ANS Forth implementations
+
++ [SwiftForth](https://www.forth.com/swiftforth/) -- big commercial implementation from Forth, Inc.
++ [GForth](http://www.gnu.org/software/gforth/) -- big implementation using GCC to compile a fast direct or indirect threaded Forth
++ [Win32Forth](http://win32forth.sourceforge.net/) -- big implementation for Microsoft Windows
++ [hForth](https://www.taygeta.com/hforth.html) -- minimal, portable
++ [Jones Forth](https://github.com/AlexandreAbreu/jonesforth) -- minimal, Linux x86
++ [lbForth](https://github.com/larsbrinkhoff/lbForth) -- self-hosting, portable Forth
+
+## Non-standard Forth implementations
+
++ [ColorForth](https://colorforth.github.io/), Chuck Moore
++ [RetroForth](http://www.retroforth.org/)
 
 ## Applications
 
@@ -39,6 +52,16 @@ brew install gforth
 ## Games
 
 * [Worms? (Atari 1983, with source code)](https://github.com/savetz/worms)
+
+## Commentary
+
++ [ColorForth website](https://colorforth.github.io/), Chuck Moore
++ [UltraTechnology website](http://www.ultratechnology.com/), Jeff Fox
+
+## Forth companies
+
++ [GreenArrays](http://www.greenarraychips.com/)
++ [Taygeta Scientific](https://www.taygeta.com/)
 
 ## Other concatenative languages
 
