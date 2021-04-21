@@ -26,6 +26,11 @@ brew install gforth
 + [A Little Bit of Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4) A great introduction
 + [Over the Shoulder 1 - Text Preprocessing in Forth](https://www.youtube.com/watch?v=mvrE2ZGe-rs) A great example of how elegant and simple forth can be in the hands of an experienced forth programmer (Samuel A. Falvo II)
 
+## Chips
+
+* [GreenArrays GA144](http://www.greenarraychips.com/home/products/index.html) -- 1x1cm chip with 144 cores
+* [The J1 Forth CPU](https://excamera.com/sphinx/fpga-j1.html) -- Forth CPU for FPGAs in 200 lines of Verilog
+
 ## ANS Forth standard
 
 + [Web version (table of contents)](https://www.taygeta.com/forth/dpans.html)
