@@ -48,6 +48,7 @@ brew install gforth
 ## Non-standard Forth implementations
 
 + [ColorForth](https://colorforth.github.io/), Chuck Moore
++ [EtherForth](http://etherforth.org/), Chuck Moore and Daniel Kalny
 + [RetroForth](http://www.retroforth.org/)
 
 ## Applications
