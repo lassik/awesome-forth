@@ -1,8 +1,10 @@
 # Awesome Forth
 
-Resources and links for the Forth programming language
-
-> Forth is an imperative stack-based computer programming language and programming environment.
+Forth is a stack-based, imperative and reflective programming language
+that comes with its own interactive development environment. Forth is
+famous (and infamous) for its extreme simplicity and flexibility. It
+excels at the rapid prototyping of low-level software and and has been
+implemented for an extremely wide range of platforms.
 
 ## Getting started
 
