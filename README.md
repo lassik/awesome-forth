@@ -6,16 +6,6 @@ famous (and infamous) for its extreme simplicity and flexibility. It
 excels at the rapid prototyping of low-level software and and has been
 implemented for an extremely wide range of platforms.
 
-## Getting started
-
-I recommend trying GForth which is a cross platform forth compiler. It seemed to be the easiest version to install on OSX and can be installed with Homebrew.
-
-```
-brew install gforth
-
-# Once installed, type gforth to start an interactive session
-```
-
 ## Books
 
 + [Thinking Forth](http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf) Free PDF
