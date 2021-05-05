@@ -64,8 +64,7 @@ implemented for an extremely wide range of platforms.
 
 ## Other concatenative languages
 
-[**Concatenative language wiki**](https://concatenative.org/)
-
 + [Joy](http://www.latrobe.edu.au/humanities/research/research-projects/past-projects/joy-programming-language) -- purely-functional language
 + [Factor](https://www.youtube.com/watch?v=f_0QlhYlS8g) -- garbage-collected functional language
 + [OForth](http://www.oforth.com) -- garbage-collected object-oriented language
++ [**Concatenative language wiki**](https://concatenative.org/)
