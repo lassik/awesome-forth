@@ -1,5 +1,7 @@
 # Awesome Forth
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Forth is a stack-based, imperative and reflective programming language
 that comes with its own interactive development environment. Forth is
 famous (and infamous) for its extreme simplicity and flexibility. It
