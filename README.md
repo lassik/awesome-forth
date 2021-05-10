@@ -31,10 +31,11 @@ implemented for an extremely wide range of platforms.
 + [The J1 Forth CPU](https://excamera.com/sphinx/fpga-j1.html) -- Forth CPU for FPGAs in 200 lines of Verilog
 + [Chip information curated by Jeff Fox](http://www.ultratechnology.com/chips.htm)
 
-## ANS Forth standard
+## Standards
 
-+ [Web version (table of contents)](https://www.taygeta.com/forth/dpans.html)
-+ [Web version (index of words)](https://www.taygeta.com/forth/dpansf.htm)
++ [ANS Forth 1994 (table of contents)](https://www.taygeta.com/forth/dpans.html)
++ [ANS Forth 1994 (index of words)](https://www.taygeta.com/forth/dpansf.htm)
++ [Forth 2012 standard and Forth200x committee](https://forth-standard.org/)
 
 ## ANS Forth implementations
 
