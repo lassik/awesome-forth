@@ -58,7 +58,7 @@ implemented for an extremely wide range of platforms.
 + [ColorForth](https://colorforth.github.io/), Chuck Moore
 + [EtherForth](http://etherforth.org/), Chuck Moore and Daniel Kalny
 + [RetroForth](http://www.retroforth.org/)
-+ [Rainbow Forth](http://rainbowforth.appspot.com/), Perhaps simpliest ColorForth that you may start in your browser. Tons of cool documentation too!
++ [Rainbow Forth](https://github.com/flagxor/rainbowforth), Perhaps simpliest ColorForth that you may start [in your browser](http://rainbowforth.appspot.com/) (Link requies Google login). Tons of cool documentation too!
 + [J1 swapforth project](https://github.com/jamesbowman/swapforth/tree/master/j1a) Minimal Forth system to be ran directly on J1a
 
 ## Applications
