@@ -8,7 +8,8 @@ implemented for an extremely wide range of platforms.
 
 ## Books
 
-+ [Thinking Forth](http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf) Free PDF
++ [Starting Forth](https://www.forth.com/starting-forth/) Free PDF of best introduction book on Forth
++ [Thinking Forth](http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf) Free PDF of best introduction book on Forth mindset
 + [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) Free PDF
 + [Beginners Guide](http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm)
 + [Forth Primer](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf)
@@ -17,11 +18,12 @@ implemented for an extremely wide range of platforms.
 
 + [A Little Bit of Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4) A great introduction
 + [Over the Shoulder 1 - Text Preprocessing in Forth](https://www.youtube.com/watch?v=mvrE2ZGe-rs) A great example of how elegant and simple forth can be in the hands of an experienced forth programmer (Samuel A. Falvo II)
++ [Chuck Moore](https://www.youtube.com/results?search_query=chuck+moore+forth) Lots of videos showing unconventional approaches to programming by inventor of Forth himself 
 
 ## Chips
 
-* [GreenArrays GA144](http://www.greenarraychips.com/home/products/index.html) -- 1x1cm chip with 144 cores
-* [The J1 Forth CPU](https://excamera.com/sphinx/fpga-j1.html) -- Forth CPU for FPGAs in 200 lines of Verilog
++ [GreenArrays GA144](http://www.greenarraychips.com/home/products/index.html) -- 1x1cm chip with 144 cores
++ [The J1 Forth CPU](https://excamera.com/sphinx/fpga-j1.html) -- Forth CPU for FPGAs in 200 lines of Verilog
 
 ## ANS Forth standard
 
@@ -36,25 +38,32 @@ implemented for an extremely wide range of platforms.
 + [hForth](https://www.taygeta.com/hforth.html) -- minimal, portable
 + [Jones Forth](https://github.com/AlexandreAbreu/jonesforth) -- minimal, Linux x86
 + [lbForth](https://github.com/larsbrinkhoff/lbForth) -- self-hosting, portable Forth
++ [SP-Forth](https://github.com/rufig/spf), Crossplatform forth with [huge shared code library from different developers](https://github.com/rufig/spf/tree/master/devel) included
++ [muforth](https://muforth.nimblemachines.com/), "Small, simple, fast, indirect-threaded Forth intended for use as a cross-compiler"
 
 ## Non-standard Forth implementations
 
 + [ColorForth](https://colorforth.github.io/), Chuck Moore
 + [EtherForth](http://etherforth.org/), Chuck Moore and Daniel Kalny
 + [RetroForth](http://www.retroforth.org/)
++ [Rainbow Forth](http://rainbowforth.appspot.com/), Perhaps simpliest ColorForth that you may start in your browser. Tons of cool documentation too!
++ [J1 swapforth project](https://github.com/jamesbowman/swapforth/tree/master/j1a) Minimal Forth system to be ran directly on J1a
 
 ## Applications
 
-* [Galileo spacecraft magnetometer patch (1993)](https://github.com/rongarret/gll-mag-patch)
++ [Galileo spacecraft magnetometer patch (1993)](https://github.com/rongarret/gll-mag-patch)
++ [Open firmware](https://en.wikipedia.org/wiki/Open_Firmware)
 
 ## Games
 
-* [Worms? (Atari 1983, with source code)](https://github.com/savetz/worms)
++ [Worms? (Atari 1983, with source code)](https://github.com/savetz/worms)
++ [Startflight](https://github.com/s-macke/starflight-reverse)
 
-## Commentary
+## Different Forth reading
 
 + [ColorForth website](https://colorforth.github.io/), Chuck Moore
 + [UltraTechnology website](http://www.ultratechnology.com/), Jeff Fox
++ [Forth Dimensions](http://www.forth.org/fd/contents.html) Scanned copies of the Forth Magazine from the past
 
 ## Forth companies
 
