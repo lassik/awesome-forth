@@ -54,6 +54,7 @@ implemented for an extremely wide range of platforms.
 
 ## Applications
 
++ [Forth in Space Applications](https://www.forth.com/resources/space-applications/) -- a list from Forth, Inc.
 + [Galileo spacecraft magnetometer patch (1993)](https://github.com/rongarret/gll-mag-patch)
 + [Open firmware](https://en.wikipedia.org/wiki/Open_Firmware)
 
