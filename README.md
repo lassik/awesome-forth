@@ -20,7 +20,7 @@ implemented for an extremely wide range of platforms.
 
 + [A Little Bit of Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4) A great introduction
 + [Over the Shoulder 1 - Text Preprocessing in Forth](https://www.youtube.com/watch?v=mvrE2ZGe-rs) A great example of how elegant and simple forth can be in the hands of an experienced forth programmer (Samuel A. Falvo II)
-+ [Chuck Moore](https://www.youtube.com/results?search_query=chuck+moore+forth) Lots of videos showing unconventional approaches to programming by inventor of Forth himself 
++ [Chuck Moore](https://www.youtube.com/results?search_query=chuck+moore+forth) Lots of videos showing unconventional approaches to programming by inventor of Forth himself
 
 ## Chips
 
