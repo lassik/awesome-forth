@@ -70,7 +70,7 @@ implemented for an extremely wide range of platforms.
 ## Games
 
 + [Worms? (Atari 1983, with source code)](https://github.com/savetz/worms)
-+ [Startflight](https://github.com/s-macke/starflight-reverse)
++ [Starflight](https://github.com/s-macke/starflight-reverse)
 
 ## Different Forth reading
 
