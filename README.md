@@ -24,8 +24,13 @@ implemented for an extremely wide range of platforms.
 
 ## Chips
 
++ [Novix NC4000/NC4016](https://users.ece.cmu.edu/~koopman/stack_computers/sec4_4.html) -- First Forth chip by Moore and others at Novix Inc., 1985
++ [Harris RTX 2000](https://users.ece.cmu.edu/~koopman/stack_computers/sec4_5.html) -- 16-bit stack computer based on the Novix, 1988
++ [Sh-Boom](https://spectrum.ieee.org/tech-history/silicon-revolution/chip-hall-of-fame-computer-cowboys-shboom-processor) from Computer Cowboys (Moore and Russell Fish), 1988
 + [GreenArrays GA144](http://www.greenarraychips.com/home/products/index.html) -- 1x1cm chip with 144 cores
 + [The J1 Forth CPU](https://excamera.com/sphinx/fpga-j1.html) -- Forth CPU for FPGAs in 200 lines of Verilog
+
++ [Chip information curated by Jeff Fox](http://www.ultratechnology.com/chips.htm)
 
 ## ANS Forth standard
 
