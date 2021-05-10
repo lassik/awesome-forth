@@ -10,8 +10,8 @@ implemented for an extremely wide range of platforms.
 
 ## Books
 
-+ [Starting Forth](https://www.forth.com/starting-forth/) Free PDF of best introduction book on Forth
-+ [Thinking Forth](http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf) Free PDF of best introduction book on Forth mindset
++ [Starting Forth](https://www.forth.com/starting-forth/) by Leo Brodie is a classic tutorial and textbook, often considered the best introduction. [Free PDF]
++ [Thinking Forth](http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf) of best introduction book on Forth mindset [Free PDF]
 + [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) Free PDF
 + [Beginners Guide](http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm)
 + [Forth Primer](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf)
@@ -40,7 +40,7 @@ implemented for an extremely wide range of platforms.
 ## ANS Forth implementations
 
 + [SwiftForth](https://www.forth.com/swiftforth/) -- big commercial implementation from Forth, Inc.
-+ [GForth](http://www.gnu.org/software/gforth/) -- big implementation using GCC to compile a fast direct or indirect threaded Forth
++ [GForth](http://www.gnu.org/software/gforth/) -- big implementation using GCC to compile a fast direct or indirect threaded Forth 2012.
 + [Win32Forth](http://win32forth.sourceforge.net/) -- big implementation for Microsoft Windows
 + [pForth](http://www.softsynth.com/pforth/) -- Portable C Forth from 3DO/Lucent
 + [hForth](https://www.taygeta.com/hforth.html) -- minimal, portable
@@ -48,6 +48,13 @@ implemented for an extremely wide range of platforms.
 + [lbForth](https://github.com/larsbrinkhoff/lbForth) -- self-hosting, portable Forth
 + [SP-Forth](https://github.com/rufig/spf), Crossplatform forth with [huge shared code library from different developers](https://github.com/rufig/spf/tree/master/devel) included
 + [muforth](https://muforth.nimblemachines.com/), "Small, simple, fast, indirect-threaded Forth intended for use as a cross-compiler"
+
+- [Mecrisp Forth](http://mecrisp.sourceforge.net/) is an implementation of a standalone native code Forth for MSP430 microcontrollers
+  - [Mecrisp-Stellaris](http://mecrisp.sourceforge.net/) is a variant of Mecrisp which runs on various ARM Cortex M chips (and the Raspberry Pi Pico and BBC MicroBit). See also the comprehensive [Documentation](https://mecrisp-stellaris-folkdoc.sourceforge.io/)
+- [CamelForth](http://camelforth.com) is an implementation for embedded microprocessors (8051, 8086, Z80, and 6809, with more to come).
+- [amForth](https://sourceforge.net/projects/amforth/) is a Forth 2012-ish interpreter running on AVR ATmega and TI MSP430 microcontrollers
+- [Mecrisp Forth](http://mecrisp.sourceforge.net/) is an implementation of a standalone native code Forth for MSP430 microcontrollers
+  - [Mecrisp-Stellaris](http://mecrisp.sourceforge.net/) is a variant of Mecrisp which runs on various ARM Cortex M chips (and the Raspberry Pi Pico and BBC MicroBit). See also the comprehensive [Documentation](https://mecrisp-stellaris-folkdoc.sourceforge.io/)
 
 ## Non-standard Forth implementations
 
