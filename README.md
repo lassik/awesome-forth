@@ -37,6 +37,7 @@ implemented for an extremely wide range of platforms.
 + [SwiftForth](https://www.forth.com/swiftforth/) -- big commercial implementation from Forth, Inc.
 + [GForth](http://www.gnu.org/software/gforth/) -- big implementation using GCC to compile a fast direct or indirect threaded Forth
 + [Win32Forth](http://win32forth.sourceforge.net/) -- big implementation for Microsoft Windows
++ [pForth](http://www.softsynth.com/pforth/) -- Portable C Forth from 3DO/Lucent
 + [hForth](https://www.taygeta.com/hforth.html) -- minimal, portable
 + [Jones Forth](https://github.com/AlexandreAbreu/jonesforth) -- minimal, Linux x86
 + [lbForth](https://github.com/larsbrinkhoff/lbForth) -- self-hosting, portable Forth
