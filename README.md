@@ -48,9 +48,6 @@ implemented for an extremely wide range of platforms.
 + [lbForth](https://github.com/larsbrinkhoff/lbForth) -- self-hosting, portable Forth
 + [SP-Forth](https://github.com/rufig/spf), Crossplatform forth with [huge shared code library from different developers](https://github.com/rufig/spf/tree/master/devel) included
 + [muforth](https://muforth.nimblemachines.com/), "Small, simple, fast, indirect-threaded Forth intended for use as a cross-compiler"
-
-- [Mecrisp Forth](http://mecrisp.sourceforge.net/) is an implementation of a standalone native code Forth for MSP430 microcontrollers
-  - [Mecrisp-Stellaris](http://mecrisp.sourceforge.net/) is a variant of Mecrisp which runs on various ARM Cortex M chips (and the Raspberry Pi Pico and BBC MicroBit). See also the comprehensive [Documentation](https://mecrisp-stellaris-folkdoc.sourceforge.io/)
 - [CamelForth](http://camelforth.com) is an implementation for embedded microprocessors (8051, 8086, Z80, and 6809, with more to come).
 - [amForth](https://sourceforge.net/projects/amforth/) is a Forth 2012-ish interpreter running on AVR ATmega and TI MSP430 microcontrollers
 - [Mecrisp Forth](http://mecrisp.sourceforge.net/) is an implementation of a standalone native code Forth for MSP430 microcontrollers
