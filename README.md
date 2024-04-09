@@ -21,6 +21,7 @@ implemented for an extremely wide range of platforms.
 + [A Little Bit of Forth](https://www.youtube.com/watch?v=Q6FflPMHZP4) A great introduction
 + [Over the Shoulder 1 - Text Preprocessing in Forth](https://www.youtube.com/watch?v=mvrE2ZGe-rs) A great example of how elegant and simple forth can be in the hands of an experienced forth programmer (Samuel A. Falvo II)
 + [Chuck Moore](https://www.youtube.com/results?search_query=chuck+moore+forth) Lots of videos showing unconventional approaches to programming by inventor of Forth himself
++ [SVFIG talks](http://forth.org/svfig/videos/)
 
 ## Chips
 
@@ -77,6 +78,10 @@ implemented for an extremely wide range of platforms.
 + [ColorForth website](https://colorforth.github.io/), Chuck Moore
 + [UltraTechnology website](http://www.ultratechnology.com/), Jeff Fox
 + [Forth Dimensions](http://www.forth.org/fd/contents.html) Scanned copies of the Forth Magazine from the past
+
+## User groups
+
++ [Silicon Valley Forth Interest Group (SVFIG)](http://forth.org/svfig/), host of annual Forth day in November
 
 ## Forth companies
 
